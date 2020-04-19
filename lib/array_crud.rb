@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  favorite_cats = ["Artimus", "Jordy", "Pretty Girl", "Simba"]
   favorite_cats.push("Taz")
 end
 
